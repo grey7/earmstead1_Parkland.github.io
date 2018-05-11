@@ -1,5 +1,9 @@
+body{
+	background-color:#0000cc;
+}
 #bar{
 	background-color: #4c271a
+	
 }
 #logo {
 	position: absolute;
@@ -8,18 +12,29 @@
         z-index: 2;
 	width: 150px;
 	height: 75px
-        border: 25px; 
-	padding: 25px;
-        margin: 25px;
-	/*background-color: #49352A;*/ 
+      
 }
 #inside {
-	width: 1000px;
-        border: 
+	width: 1200px;
+        border: px;
+      	float: center;	
+}
+
+#title{
+	font-size: 30px;
+	font-style: italic;
+}
+
+
+#buy {
+	width: 300px;
+        border: 25px;
         padding: 25px;
         margin: 25px;
-	background-color:	
+	font-size: 30px;
+	
 }
+
 #footer {
 	margin-left: .4em;
         padding-top: 5em;

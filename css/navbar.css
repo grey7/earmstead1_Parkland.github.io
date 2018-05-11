@@ -3,11 +3,11 @@
 	float: right;
 	right: 6em;
         top: 6em;
-	width: 1600px;
-	height: 400px
-        border: 25px; 
+	width: 1700px;
+	height: 20px;
+        border: px; 
 	padding: 25px;
-        margin: 25px;
+        margin: px;
 	background-color: #a78555;
 	
 }
@@ -25,7 +25,7 @@
 }
 
 .navItem:hover, .navItem:focus {
-        background-color: #f9f2eb;
+        background-color: #d9d9d9;;
 }
 
 .active {
